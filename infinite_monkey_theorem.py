@@ -41,7 +41,7 @@ def call(score, count, sentence):
 
     while score != 28:
 
-        if count == 10000:
+        if count == 10000: # rather than calling repititively, i am just trying to see how this works
             return(sentence,score)
 
         sen = generate()
