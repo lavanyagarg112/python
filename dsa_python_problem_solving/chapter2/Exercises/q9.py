@@ -5,7 +5,7 @@ Given a list of numbers in random order, write an algorithm that works in O(nlog
 '''
 Basic idea:
 Sort in nlogn time
-then kth smallest number is just the index
+then kth smallest number is just the index... but is that O(1) time?
 
 the nlogn time is by merge sort
 '''
