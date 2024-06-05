@@ -10,3 +10,9 @@ I am currently learning DSA in python, do check out the folder on this repositor
 
 P.S.: I am a beginner. If there are any errors in my code, I would be grateful if you would let me know!
 
+Update: Discontinued, as I discovered other resources more relevant to my coursework as well
+
+# Leetcode
+I have recently started my leetcode journey and you can find my solutions [here](https://github.com/lavanyagarg112/leetcode)!
+
+For the first few questions, I simply coded it out, however, realising my error, I later began to write down my notes and learnings as comments.
